@@ -1,0 +1,15 @@
+
+.bg-light {
+    background-color: #9ab774 !important;
+}
+.nav-link {
+    color: white !important;
+    padding: 18px;
+}
+.nav-link:hover {
+    display: block;
+    background-color:#60A24F !important ;
+}
+.navbar {
+    padding: 0;
+}
