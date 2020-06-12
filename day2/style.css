@@ -1,0 +1,28 @@
+.logo {
+    background-color: #272f54;
+    text-align: center;
+}
+.logo img {
+    margin: 20px auto;
+    max-width: 100%;
+}
+
+.bg-light {
+    background-color: #cb7802 !important;
+}
+.banner img {
+    width: 100%;
+}
+.navbar {
+    margin: 5px 0;
+}
+.nav-link {
+    color: aliceblue !important;
+}
+
+.active,
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+
